@@ -45,7 +45,7 @@ public class Tugas3 {
         System.out.println("Prodi   :Teknik Informatika");
         System.out.println("Alamat  :Perum Taman Anggrek Saptorenggo Pakis");
         System.out.println("No HP   :085233647130");
-        System.out.println("Hobi    :Game");
+        System.out.println("Hobi    :game");
     }
     
 }
